@@ -1,0 +1,12 @@
+{
+  "project": "Little Hearth",
+  "source": "Generated with OpenAI image_gen on 2026-10-10; PNGs cropped to their transparent alpha bounds and resized for the browser canvas.",
+  "style": "Hand-painted picture-book isometric art with rounded silhouettes, soft gouache texture, warm top-left light, and a cheerful pastel palette.",
+  "assets": [
+    { "file": "cottage.png", "use": "Starter home and additional houses", "source_file": "exec-cacae033-2f2e-419c-b5de-567315c92ea7.png", "transparent": true },
+    { "file": "farm.png", "use": "Vegetable farm plot", "source_file": "exec-14adc2b5-20a6-4028-9e6f-8bd0b19428fb.png", "transparent": true },
+    { "file": "shop.png", "use": "Town shop", "source_file": "exec-ab2a94b6-e4e1-4e13-a796-bff77f90ab57.png", "transparent": true },
+    { "file": "wood-yard.png", "use": "Wood yard", "source_file": "exec-42836681-6277-41ee-a3c6-7acf1f1c210b.png", "transparent": true },
+    { "file": "tree.png", "use": "Map trees", "source_file": "exec-02454937-01f5-4f0b-9977-0354233e1f2a.png", "transparent": true }
+  ]
+}
